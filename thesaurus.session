@@ -1,0 +1,16 @@
+<!DOCTYPE webprojectsession>
+<webprojectsession>
+  <session usePreviewPrefix="0" previewPrefix="" >
+    <itemcursorpositions>
+      <item column="0" line="0" url="libsession.php" />
+      <item column="0" line="140" url="libaction.php" />
+      <item column="2" line="66" url="index.php" />
+      <item column="46" line="61" url="libinput.php" />
+      <item column="7" line="166" url="default.css" />
+      <item column="59" line="182" url="librights.php" />
+    </itemcursorpositions>
+    <uploadprofiles defaultProfile="@" >
+      <profile remote_host="" remote_port="" remote_path="" remote_protocol="ftp" user="" name="@" />
+    </uploadprofiles>
+  </session>
+</webprojectsession>

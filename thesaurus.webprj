@@ -1,0 +1,62 @@
+<!DOCTYPE webproject>
+<webproject>
+  <project type="Local" name="thesaurus" encoding="utf8" >
+    <upload/>
+    <author>Thomas Winkler</author>
+    <email>thomas.winkler@iggmp.net</email>
+    <defaultDTD>-//W3C//DTD HTML 4.01 Transitional//EN</defaultDTD>
+    <item url="" uploadstatus="1" />
+    <templates>templates/</templates>
+    <toolbars>toolbars/</toolbars>
+    <item modified_time="1288870560" url="liboutput.php" uploadstatus="1" />
+    <item modified_time="1288870260" url="index.php" uploadstatus="1" />
+    <item modified_time="1288870500" url="libdatabase.php" uploadstatus="1" />
+    <annotations/>
+    <item url="images/" uploadstatus="1" />
+    <item url="images/add.gif" uploadstatus="1" />
+    <item url="images/delete.gif" uploadstatus="1" />
+    <item url="images/line.gif" uploadstatus="1" />
+    <item url="images/minus.gif" uploadstatus="1" />
+    <item url="images/plus.gif" uploadstatus="1" />
+    <item url="images/space.gif" uploadstatus="1" />
+    <item url="images/subend.gif" uploadstatus="1" />
+    <item url="images/subtree.gif" uploadstatus="1" />
+    <item url="images/thesaurus.gif" uploadstatus="1" />
+    <item url="images/thesaurus-open.gif" uploadstatus="1" />
+    <item url="templates/" uploadstatus="1" />
+    <item url="toolbars/" uploadstatus="1" />
+    <item url="default.css" uploadstatus="1" />
+    <item url="libgrafik.php" uploadstatus="1" />
+    <item url="libinput.php" uploadstatus="1" />
+    <item url="libsession.php" uploadstatus="1" />
+    <item url="libthesaurus.php" uploadstatus="1" />
+    <item url="thesaurus.session" uploadstatus="1" />
+    <item url="thesaurus.webprj" uploadstatus="1" />
+    <item url="images/closeall.gif" uploadstatus="1" />
+    <item url="images/help-off.gif" uploadstatus="1" />
+    <item url="images/help-on.gif" uploadstatus="1" />
+    <item url=".htaccess" uploadstatus="1" />
+    <item url=".htpasswd" uploadstatus="1" />
+    <item url="libhelp.php" uploadstatus="1" />
+    <item url="libjava.js" uploadstatus="1" />
+    <item url="libsearch.php" uploadstatus="1" />
+    <item url="temp.php" uploadstatus="1" />
+    <item url="images/link.gif" uploadstatus="1" />
+    <item url="images/unlink.gif" uploadstatus="1" />
+    <item url="images/up.gif" uploadstatus="1" />
+    <item url="images/opentree.gif" uploadstatus="1" />
+    <item url="images/right-blue.gif" uploadstatus="1" />
+    <item url="images/right-orange.gif" uploadstatus="1" />
+    <item url="todo.txt" uploadstatus="1" />
+    <item url="help.php" uploadstatus="1" />
+    <item url="images/assoc.gif" uploadstatus="1" />
+    <item url="admin.php" uploadstatus="1" />
+    <item url="librights.php" uploadstatus="1" />
+    <item url="images/equiv.gif" uploadstatus="1" />
+    <item url="images/print.gif" uploadstatus="1" />
+    <item url="images/swap.gif" uploadstatus="1" />
+    <item url="libaction.php" uploadstatus="1" />
+    <item url="libprint.php" uploadstatus="1" />
+    <item url="print.php" uploadstatus="1" />
+  </project>
+</webproject>
