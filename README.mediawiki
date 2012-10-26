@@ -1,0 +1,5 @@
+=OpenThesaurus=
+
+This PHP based webaplication is designed to create and manage polyhyrarchic thesauri. It is based on a MySql database and can manage multiple useraccounts with group defined rights.
+
+The program is in an early developement state for having some bugs. Also the management of the databases is very basic. 

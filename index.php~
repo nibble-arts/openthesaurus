@@ -41,7 +41,7 @@ $_JS=1;
 
 // connect database
 $daba = new database();
-$daba->connect("localhost","","");
+$daba->connect("localhost","iggmp","1s87J37r0");
 $daba->select("thesaurus");
 
 
